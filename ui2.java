@@ -30,6 +30,9 @@
                 android:layout_width="185dp"
                 android:layout_height="wrap_content"
                 android:text="Company car"/>
+
+
+
                 
 
         </RadioGroup>
@@ -60,6 +63,7 @@
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/Edittext"
         android:layout_alignBottom="@+id/Edittext"
+        android:layout_alignParentLeft="true"
         android:layout_alignParentLeft="true"
         android:text="Phone:" />
 
